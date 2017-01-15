@@ -29,3 +29,11 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## My Comments
+Learning Angular2 with this application.
+clone the repo
+npm install
+ng serve
+(application running in localhost:4200/)
